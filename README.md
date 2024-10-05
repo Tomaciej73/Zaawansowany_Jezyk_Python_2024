@@ -1,4 +1,4 @@
-# Znalezione w necie projekty
+# Pierwszy znaleziony projekt
 ## Zadanie projektowe 1 
 ![projekt1](https://github.com/Tomaciej73/Zaawansowany_Jezyk_Python_2024/blob/images/pypdf_beautiful.png)
   
