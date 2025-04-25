@@ -5,6 +5,6 @@ def main():
     a.move(-2, 6)
     print(f'Przesuniety punkt: {a}')
     print(f'Wspolrzedna x: {a.x}, wspolrzedna y: {a.y}')
-
+    print('test')
 if __name__ == "__main__":
     main()
