@@ -1,6 +1,8 @@
 import os
 
 print ('dzialaaa?')
+print ('chujowo')
+
 
 os.makedirs('PoryRoku/wiosna/marzec', exist_ok=True)
 os.makedirs('PoryRoku/wiosna/kwiecień', exist_ok=True)
